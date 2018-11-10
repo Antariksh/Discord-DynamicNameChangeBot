@@ -9,7 +9,7 @@ var rs = require('random-string');
 var uptimer = require('uptimer');
 var checksum = require('checksum');
 var path = require('path');
-server.listen process.env.PORT || 5000
+
 var App = {
 
     // Discord
