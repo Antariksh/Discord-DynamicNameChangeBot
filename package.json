@@ -3,6 +3,9 @@
   "version": "0.1.0",
   "description": "",
   "main": "app.js",
+  "engines": {
+    "node": "10.3.0"
+  },
   "dependencies": {
     "bufferutil": "^3.0.2",
     "checksum": "^0.1.1",
